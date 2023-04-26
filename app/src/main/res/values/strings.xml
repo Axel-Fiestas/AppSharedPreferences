@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppPersistenciaSharedPreferences</string>
+    <string name="btn_grabar">grabar</string>
+    <string name="hint_ingrese_nombre">Ingrese nombre</string>
+    <string name="btn_retrieve">Retrieve</string>
+</resources>
